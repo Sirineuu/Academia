@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.conteudo{
+    font-family: 'Montserrat', sans-serif;
+}
+.cabecalho h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.cabecalho {
+    background-color: #272020;
+   
+    height: 221px;
+    margin-bottom: 73px;
+}
+
+.dias {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dias p {
+    background: #D9D9D9;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.fila {
+    padding-top: 23px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.fila h2 {
+    text-align: center;
+    padding-top: 7px;
+}
+
+.one {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.one h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.one p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.two {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.two h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.two p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.tree {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.tree h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.tree p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.for {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.for h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.for p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.five {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.five h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.five p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.six {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.six h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.six p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.seven {
+    background-color: #272020;
+    width: 237px;
+    height: 201px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.seven h2 {
+    font-size: 24px;
+    color: #E0981F;
+    margin-left: 10px;
+}
+
+.seven p {
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px;
+}
+

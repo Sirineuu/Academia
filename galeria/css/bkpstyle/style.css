@@ -1,0 +1,70 @@
+.conteudo {
+    background: #332A2A;
+}
+
+.conteudo h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 63px;
+}
+
+.conteudo p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
+}
+
+.conteudo img {
+    width: 278px;
+    height: 184px;
+}
+
+.terra ul {
+    display: flex;
+    justify-content: center;
+}
+
+.terra li {
+    margin-right: 27px;
+    margin-top: 30px;
+}
+
+.terra2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.aquatica ul {
+    display: flex;
+    justify-content: center;
+}
+
+.aquatica li {
+    margin-right: 27px;
+    margin-top: 30px;
+}
+
+.aquatica2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.servico ul {
+    display: flex;
+    justify-content: center;
+}
+
+.servico li {
+    margin-right: 27px;
+    margin-top: 30px;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 60px;
+}
